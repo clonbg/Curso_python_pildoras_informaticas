@@ -13,3 +13,8 @@ else:
 
 for i in range(78):
     print(i, end=" ")
+
+for i in range(5,115,6):
+    print(f"valor de la variable: {i}")
+
+print(len("Manuel"))

@@ -3,6 +3,7 @@
 - Video 10
 - Video 11
 - Video 16
+- Vídeo 20
 
 ## Orden
 1. primeras_funciones
@@ -11,3 +12,6 @@
 4. diccionarios
 5. condicionalesIfElse
 6. bucleFor
+7. bucleWhile
+8. buclesContPassElse
+9. generadores.py
