@@ -4,6 +4,8 @@
 - Video 11
 - Video 16
 - Vídeo 20
+- Vídeo 24
+- Vídeo 27
 
 ## Orden
 1. primeras_funciones
@@ -14,4 +16,6 @@
 6. bucleFor
 7. bucleWhile
 8. buclesContPassElse
-9. generadores.py
+9. generadores
+10. excepciones, excepciones2 y excepciones3
+11. claseCoche
