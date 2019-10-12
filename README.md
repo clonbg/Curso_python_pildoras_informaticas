@@ -6,6 +6,7 @@
 - Vídeo 20
 - Vídeo 24
 - Vídeo 27
+- Vídeo 31
 
 ## Orden
 1. primeras_funciones
@@ -18,4 +19,5 @@
 8. buclesContPassElse
 9. generadores
 10. excepciones, excepciones2 y excepciones3
-11. claseCoche
+11. claseCoche (encapsulación)
+12. herencia
