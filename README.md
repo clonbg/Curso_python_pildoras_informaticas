@@ -1,4 +1,5 @@
 # Curso_python_pildoras_informaticas
+
 - Video 9 min 11:30
 - Video 10
 - Video 11
@@ -8,8 +9,10 @@
 - Vídeo 27
 - Vídeo 31
 - Vídeo 32
+- Video 34
 
 ## Orden
+
 1. primeras_funciones
 2. listas
 3. tuplas
