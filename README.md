@@ -7,6 +7,7 @@
 - Vídeo 24
 - Vídeo 27
 - Vídeo 31
+- Vídeo 32
 
 ## Orden
 1. primeras_funciones

@@ -41,7 +41,7 @@ class VehiculoElectrico():
         self.cargando = True
 
 
-# Coge el constructor de la clase del primer parámetro
+# Coge el constructor de la clase del primer parametro
 class bicicletaElectrica(Vehiculo, VehiculoElectrico):
     pass
 
