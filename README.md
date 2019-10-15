@@ -10,6 +10,7 @@
 - Vídeo 31
 - Vídeo 32
 - Video 34
+- Vídeo 37
 
 ## Orden
 
@@ -25,3 +26,4 @@
 10. excepciones, excepciones2 y excepciones3
 11. claseCoche (encapsulación)
 12. herencia
+13. carpetas[modulos,encapsulado,dist,calculos], setup.py, uso_modulos_calculos
