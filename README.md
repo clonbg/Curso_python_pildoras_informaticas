@@ -11,6 +11,7 @@
 - Vídeo 32
 - Video 34
 - Vídeo 37
+- Vídeo 40
 
 ## Orden
 
@@ -27,3 +28,5 @@
 11. claseCoche (encapsulación)
 12. herencia
 13. carpetas[modulos,encapsulado,dist,calculos], setup.py, uso_modulos_calculos
+14. archivostxt
+15. serialización(binario)
