@@ -18,3 +18,5 @@ for i in range(5,115,6):
     print(f"valor de la variable: {i}")
 
 print(len("Manuel"))
+
+print("Tus huevos")
