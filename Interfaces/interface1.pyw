@@ -28,7 +28,11 @@ Label(miFrame, text="Esta es una etiqueta", bg="gray", fg="black", font=("Libera
 
 miImagen=PhotoImage(file="pc.gif")
 
-Label(miFrame, image=miImagen, bg="gray").place(x=60,y=50)
+Label(miFrame, image=miImagen,bg="gray").place(x=60,y=50)
+
+Entry(miFrame,bg="white").place(x=130,y=180)
+
+Label(miFrame, text="Nombre: ", bg="gray").place(x=50,y=180)
 
 raiz.mainloop()
 
