@@ -16,7 +16,7 @@ miFrame=Frame()
 
 miFrame.pack()
 
-miFrame.config(bg="red")
+miFrame.config(bg="gray")
 
 miFrame.config(width="600", height="400")
 
@@ -24,4 +24,11 @@ miFrame.config(bd="20")
 
 miFrame.config(relief="flat")
 
+Label(miFrame, text="Esta es una etiqueta", bg="gray", fg="black", font=("Liberation Serif",15)).place(x=50,y=20)
+
+miImagen=PhotoImage(file="pc.gif")
+
+Label(miFrame, image=miImagen, bg="gray").place(x=60,y=50)
+
 raiz.mainloop()
+

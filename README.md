@@ -1,6 +1,6 @@
 # Curso_python_pildoras_informaticas
 
-- Video 44
+- Video 45
 
 ## Orden
 
@@ -20,3 +20,4 @@
 14. archivostxt
 15. serialización(binario)
 16. serializarObjetos
+17. Interfaces
