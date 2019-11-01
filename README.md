@@ -1,6 +1,6 @@
 # Curso_python_pildoras_informaticas
 
-- Video 46
+- Video 46, min 13
 
 ## Orden
 
