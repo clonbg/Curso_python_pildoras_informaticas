@@ -31,7 +31,9 @@ miImagen = PhotoImage(file="Interfaces/pc.gif")
 
 Label(miFrame, image=miImagen, bg="gray").grid(row=1, column=0, columnspan=2)
 
-Entry(miFrame, bg="white").grid(row=2, column=1, pady=3, sticky="w")
+miNombre=StringVar()
+
+Entry(miFrame, bg="white", textvariable=miNombre).grid(row=2, column=1, pady=3, sticky="w")
 
 Label(miFrame, text="Nombre: ", bg="gray").grid(
     row=2, column=0, sticky="w", pady=3)
@@ -64,5 +66,11 @@ scrollText = Scrollbar(
 scrollText.grid(row=6, column=1, sticky="ens", pady=3)
 
 comentariosText.config(yscrollcommand=scrollText.set)
+
+def codigoBoton():
+    miNombre.set("Manuel")
+
+botonEnvio=Button(miFrame,bg="gray",text="Enviar",command=codigoBoton)
+botonEnvio.grid(row=7,column=1,sticky="e",pady=5)
 
 raiz.mainloop()
