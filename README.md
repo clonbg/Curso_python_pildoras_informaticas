@@ -1,9 +1,12 @@
 # Curso_python_pildoras_informaticas
 
+## URL
+https://www.youtube.com/watch?v=G2FCfQj-9ig&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS
+
+## Siguiente para ver
 - Video 50
 
 ## Orden
-
 1. primeras_funciones
 2. listas
 3. tuplas
